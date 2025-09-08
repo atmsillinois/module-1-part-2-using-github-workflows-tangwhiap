@@ -7,7 +7,7 @@ This repository provides a Python implementation of the **water-activity-based i
 
 ## ✨ Features
 
-- Calculates freezing probability for immersed Fe~2~O~3~ aerosols
+- Calculates freezing probability for immersed Fe<sub>2</sub>O<sub>3</sub> aerosols
 - Based on the **water-activity-based immersion freezing model**
 - Input parameters:
   - Temperature **T** (Kelvin, *K*)
