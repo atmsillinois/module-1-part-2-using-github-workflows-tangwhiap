@@ -11,9 +11,8 @@ This repository provides a Python implementation of the **water-activity-based i
 - Based on the **water-activity-based immersion freezing model**
 - The species can be Fe<sub>2</sub>O<sub>3</sub>, illite and kaolinite.
 - Input parameters:
-  - Temperature **T** (Kelvin, *K*)
-  - Exposure time *t* (seconds, *s*)
-  - Particle diameter D<sub>p</sub> (meters, *m*)
-  - Ice nucleating species
+  - Temperature *T* (Kelvin, *K*)
+  - Exposure time *time* (seconds, *s*)
+  - Particle diameter *D<sub>p</sub> *(meters, *m*)
 
 ![Immersion freezing](images/immersion_freezing.png)
