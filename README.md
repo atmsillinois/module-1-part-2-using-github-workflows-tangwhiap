@@ -13,3 +13,5 @@ This repository provides a Python implementation of the **water-activity-based i
   - Temperature **T** (Kelvin, *K*)
   - Exposure time *t* (seconds, *s*)
   - Particle diameter D<sub>p</sub> (meters, *m*)
+
+![Immersion freezing](images/immersion_freezing.png)
