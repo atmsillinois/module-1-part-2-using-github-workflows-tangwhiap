@@ -1,7 +1,18 @@
-# Create a README.md
+# Freezing Probability for Ice nucleating particles
 
-If you need help with `Markdown`, check out [The Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)!
+This repository provides a Python implementation of the **water-activity-based immersion freezing model**  
+(*Knopf & Alpert, 2013*) for calculating the freezing probability of Ice nucleating particles.
 
-What should a good README.md look like? Check out these [guidelines](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes).
+---
 
-Did you add an open source software license?
+## ✨ Features
+
+- Calculates freezing probability for immersed ice nucleating particles
+- Based on the **water-activity-based immersion freezing model**
+- The species can be Fe<sub>2</sub>O<sub>3</sub>, illite and kaolinite.
+- Input parameters:
+  - Temperature *T* (Kelvin, *K*)
+  - Exposure time *time* (seconds, *s*)
+  - Particle diameter *D<sub>p</sub> *(meters, *m*)
+
+![Immersion freezing](images/immersion_freezing.png)
